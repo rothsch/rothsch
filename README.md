@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 🔭 I’m currently working on DLUT
+### 🔭 I’m currently working on NJU
 ### 🌱 I’m currently learning algorithm
 ### 👯 I’m looking to collaborate on github
 
