@@ -8,7 +8,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on DLUT
+- 🔭 I’m currently Studying at NJU
 - 🌱 I’m currently learning algorithm
 - 👯 I’m looking to collaborate on github
 -->
